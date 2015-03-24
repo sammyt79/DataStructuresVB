@@ -1,0 +1,31 @@
+Home Appliance - Air Conditioner
+Hours / Day - 5
+Cost / Hour - $0.10
+Annual Cost - $182.50
+
+Home Appliance - Blender
+Hours / Day - 0.5
+Cost / Hour - $0.05
+Annual Cost - $9.13
+
+Home Appliance - Clothes Dryer
+Hours / Day - 1
+Cost / Hour - $0.50
+Annual Cost - $182.50
+
+Home Appliance - Clothes Washer
+Hours / Day - 1
+Cost / Hour - $0.53
+Annual Cost - $200.75
+
+Home Appliance - Dish Washer
+Hours / Day - 2
+Cost / Hour - $0.51
+Annual Cost - $375.95
+
+Home Appliance - Fan
+Hours / Day - 5
+Cost / Hour - $0.05
+Annual Cost - $91.25
+
+Running Total - 1042.075
