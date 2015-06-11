@@ -24,6 +24,6 @@ Your project must be properly documented (describe the use of variables, describ
 
 To run
 
-Download zip file (Data Structures in a Visual Basic Program/Home Utility Auditing Program.zip)
+Download and unzip Home Utility Auditing Program.zip (Data Structures in a Visual Basic Program/Home Utility Auditing Program.zip)
 
 run .exe (Home Utility Auditing Program/bin/Debug/Home Utility Auditing Program.exe)
