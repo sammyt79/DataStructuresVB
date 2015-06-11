@@ -26,4 +26,4 @@ To run
 
 Download zip file (Data Structures in a Visual Basic Program/Home Utility Auditing Program.zip)
 
-run .exe
+run .exe (Home Utility Auditing Program/bin/Debug/Home Utility Auditing Program.exe)
