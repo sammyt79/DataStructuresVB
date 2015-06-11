@@ -21,3 +21,9 @@ Use arrays or structures where applicable
 Your name, date, project description and class must be in the code as comments (similar to an APA title page). This must be in the form that automatically loads when the program is executed.
  
 Your project must be properly documented (describe the use of variables, describe how a function or routine works, use proper naming conventions for variables and labels).
+
+To run
+
+Download zip file (Data Structures in a Visual Basic Program/Home Utility Auditing Program.zip)
+
+run .exe
