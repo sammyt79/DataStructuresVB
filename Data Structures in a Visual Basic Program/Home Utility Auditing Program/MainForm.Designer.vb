@@ -53,7 +53,7 @@ Partial Class MainForm
         Me.txtCost.Location = New System.Drawing.Point(212, 60)
         Me.txtCost.Name = "txtCost"
         Me.txtCost.Size = New System.Drawing.Size(50, 20)
-        Me.txtCost.TabIndex = 0
+        Me.txtCost.TabIndex = 1
         '
         'cboAppliance
         '
@@ -64,7 +64,7 @@ Partial Class MainForm
         Me.cboAppliance.Location = New System.Drawing.Point(212, 25)
         Me.cboAppliance.Name = "cboAppliance"
         Me.cboAppliance.Size = New System.Drawing.Size(199, 21)
-        Me.cboAppliance.TabIndex = 1
+        Me.cboAppliance.TabIndex = 0
         '
         'lblAppliance
         '
@@ -107,14 +107,14 @@ Partial Class MainForm
         Me.txtPower.Location = New System.Drawing.Point(212, 95)
         Me.txtPower.Name = "txtPower"
         Me.txtPower.Size = New System.Drawing.Size(50, 20)
-        Me.txtPower.TabIndex = 6
+        Me.txtPower.TabIndex = 2
         '
         'txtHours
         '
         Me.txtHours.Location = New System.Drawing.Point(212, 130)
         Me.txtHours.Name = "txtHours"
         Me.txtHours.Size = New System.Drawing.Size(50, 20)
-        Me.txtHours.TabIndex = 7
+        Me.txtHours.TabIndex = 3
         '
         'btnClear
         '
@@ -133,7 +133,7 @@ Partial Class MainForm
         Me.btnCalculate.Location = New System.Drawing.Point(336, 110)
         Me.btnCalculate.Name = "btnCalculate"
         Me.btnCalculate.Size = New System.Drawing.Size(75, 25)
-        Me.btnCalculate.TabIndex = 9
+        Me.btnCalculate.TabIndex = 6
         Me.btnCalculate.Text = "Calculate"
         Me.btnCalculate.UseVisualStyleBackColor = True
         '
@@ -153,7 +153,7 @@ Partial Class MainForm
         Me.txtCostGal.Name = "txtCostGal"
         Me.txtCostGal.ReadOnly = True
         Me.txtCostGal.Size = New System.Drawing.Size(50, 20)
-        Me.txtCostGal.TabIndex = 20
+        Me.txtCostGal.TabIndex = 5
         '
         'txtGallons
         '
@@ -161,7 +161,7 @@ Partial Class MainForm
         Me.txtGallons.Name = "txtGallons"
         Me.txtGallons.ReadOnly = True
         Me.txtGallons.Size = New System.Drawing.Size(50, 20)
-        Me.txtGallons.TabIndex = 19
+        Me.txtGallons.TabIndex = 4
         '
         'lblCostGal
         '
@@ -240,7 +240,7 @@ Partial Class MainForm
         Me.btnExport.Location = New System.Drawing.Point(336, 200)
         Me.btnExport.Name = "btnExport"
         Me.btnExport.Size = New System.Drawing.Size(75, 25)
-        Me.btnExport.TabIndex = 25
+        Me.btnExport.TabIndex = 7
         Me.btnExport.Text = "Export"
         Me.btnExport.UseVisualStyleBackColor = True
         '
